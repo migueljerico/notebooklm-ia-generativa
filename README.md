@@ -1,68 +1,77 @@
-# 📚 Comparativa de IA Generativa de Texto con NotebookLM
+# 📓 Comparativa de IA Generativa de Texto con NotebookLM
 
-![NotebookLM](https://img.shields.io/badge/NotebookLM-Análisis%20IA-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-CC785C?style=for-the-badge)
 ![Estado](https://img.shields.io/badge/Estado-Completado-4CAF50?style=for-the-badge)
+![Tipo](https://img.shields.io/badge/Práctica-IA%20Generativa-FF6B6B?style=for-the-badge)
 
-> **Análisis Práctico — Herramientas de IA Generativa de Texto**  
-> Exploración y comparación de ChatGPT, Claude y Copilot utilizando NotebookLM.
+> **Ejercicio Práctico — Exploración y Análisis de IA Generativa**  
+> Comparativa de **ChatGPT, Claude y Copilot** organizada con **NotebookLM**
 
 ---
 
-## 📥 Acceso al Cuaderno de NotebookLM
+## 🔗 Acceso al Cuaderno
 
-[![Ver Cuaderno en NotebookLM](https://img.shields.io/badge/👀%20Ver%20Cuaderno-NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://notebooklm.google.com/notebook/ce83fb03-765d-483d-af5d-8c25283408f4?pli=1)
+[![Ver Cuaderno en NotebookLM](https://img.shields.io/badge/📖%20Ver%20Cuaderno-NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://notebooklm.google.com/notebook/ce83fb03-765d-483d-af5d-8c25283408f4?pli=1)
 
 ---
 
 ## 📋 Descripción del Proyecto
 
-Este proyecto documenta una exploración y comparativa de tres herramientas de inteligencia artificial generativa de texto: **ChatGPT**, **Claude** y **Copilot**. El análisis se realizó utilizando **NotebookLM** como plataforma de organización y síntesis de información.
-
-El objetivo principal fue identificar las diferencias clave entre estas herramientas, evaluar la calidad de sus respuestas ante un mismo prompt y determinar cuál ofrece un mejor rendimiento para contextos específicos, especialmente en el ámbito educativo y profesional.
+Análisis comparativo de tres herramientas de **IA generativa de texto** — ChatGPT, Claude y Copilot — utilizando **NotebookLM** como plataforma de organización y síntesis. El trabajo evalúa la calidad de respuesta de cada modelo ante un mismo prompt de referencia, con el objetivo de identificar la herramienta más adecuada para contextos educativos y profesionales.
 
 ---
 
-## 📁 Estructura del Repositorio
+## 🔬 Metodología del análisis
+
+| Fase | Descripción |
+|---|---|
+| **1. Exploración** | Documentación de características diferenciales de cada herramienta |
+| **2. Generación** | Aplicación del mismo prompt en ChatGPT, Claude y Copilot |
+| **3. Comparación** | Evaluación y contraste de las respuestas obtenidas |
+| **4. Conclusiones** | Determinación de la herramienta más adecuada según el caso de uso |
+
+---
+
+## 🤖 Herramientas comparadas
+
+| Herramienta | Proveedor | Modelo base |
+|---|---|---|
+| **ChatGPT** | OpenAI | GPT-4o |
+| **Claude** | Anthropic | Claude 3.x — enfoque ético y de seguridad |
+| **Copilot** | Microsoft | GPT-4o + integración con Bing |
+
+---
+
+## 📁 Estructura del repositorio
 
 ```
 notebooklm-ia-generativa/
-│
-├── 📄 README.md
-│       └── Descripción general del proyecto y acceso al cuaderno de NotebookLM.
-│
-└── 📁 docs/
-        └── 📄 Documentacion_Proyecto_NotebookLM.md
-                └── Documentación detallada del proceso de análisis, comparativa y conclusiones.
+├── README.md
+└── docs/
+    └── Documentacion_Proyecto_NotebookLM.md   # Proceso, comparativa y conclusiones
 ```
 
 ---
 
-## 🚀 Contenido Clave del Análisis
+## 🧰 Herramientas utilizadas
 
-El análisis se centró en los siguientes puntos:
-
-1.  **Exploración de Herramientas:** Documentación de las características y diferencias de ChatGPT, Claude y Copilot.
-2.  **Creación de Contenido:** Generación de un mismo contenido utilizando el mismo prompt en las tres herramientas.
-3.  **Comparación de Resultados:** Evaluación y contraste de las respuestas obtenidas.
-4.  **Presentación de Conclusiones:** Determinación de la herramienta más adecuada y justificación de la elección.
-
----
-
-## 🛠️ Herramientas Utilizadas
-
--   **NotebookLM:** Plataforma de Google para organizar y sintetizar información.
--   **ChatGPT (OpenAI):** IA generativa de texto.
--   **Claude (Anthropic):** IA generativa de texto con enfoque ético.
--   **Copilot (Microsoft):** Asistente de IA integrado con GPT-4o y Bing.
+| Herramienta | Uso |
+|---|---|
+| **Google NotebookLM** | Organización, síntesis y análisis de fuentes |
+| **ChatGPT** | Generación de contenido para comparativa |
+| **Claude** | Generación de contenido para comparativa |
+| **Microsoft Copilot** | Generación de contenido para comparativa |
 
 ---
 
-## 👤 Autor
+## 📚 Contexto formativo
 
-**Miguel Jericó**  
-Analista de Datos en formación |  
-📚 Programa de transición profesional hacia Data Analytics
+Este ejercicio forma parte del programa de formación en **Análisis de Datos**, dentro del módulo de exploración y evaluación de herramientas de IA generativa. El objetivo es desarrollar criterio propio para seleccionar la herramienta más adecuada según el contexto de uso, comprendiendo las diferencias en capacidades, limitaciones y orientación de cada modelo.
 
 ---
 
-*Proyecto realizado como ejercicio práctico de exploración y análisis de herramientas de IA generativa.*
+<p align="center">
+  <sub>Desarrollado por <a href="https://github.com/migueljerico">@migueljerico</a> · 2025</sub>
+</p>
